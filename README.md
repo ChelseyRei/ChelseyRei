@@ -43,7 +43,7 @@
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
 > "An evolving system increases its complexity unless work is done to reduce it."
 > — Manny Lehman
